@@ -1,4 +1,4 @@
-Dashboard desenvolvido para analisar os dados de vendas de um determinado período em uma empresa fictícia, utilizando ferramentas de ETL e DAX (Power BI) para visualização de indicadores-chave (KPIs).
+Dashboard desenvolvido para analisar os dados de vendas de um determinado período em uma empresa fictícia (ACME), utilizando ferramentas de ETL e DAX (Power BI) para visualização de indicadores-chave (KPIs).
 
 Itens analisados no Dasboard.
 1. Soma do valor total vendido
