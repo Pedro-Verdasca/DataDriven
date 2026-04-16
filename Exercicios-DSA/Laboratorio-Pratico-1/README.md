@@ -8,5 +8,6 @@ Itens analisados no Dasboard.
 5. Quais países obtiveram maior média de valor das vendas. (Mapa)
 
 Dashboard permite ao usuário a possibilidade de filtrar os dados apresentados por ano, por segmento e por país.
-Ex. da interação do usuário na imagem (Dados Austrália): 
+
+Ex. da interação do usuário na imagem (Dados Austrália):
 Dados de Vendas entre os anos de 2012 e 2013 (Austrália)
